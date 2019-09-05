@@ -1,0 +1,22 @@
+Collections Framework in Java :
+
+  Collection is used for store
+  Below are the classes which are implementing these interfaces
+
+Set : Duplicate Not allowed
+  Hash Set  -> It will not maintain the insertion order
+  Linked Hash Set  -> It will maintain the insertion order
+  Tree Set -> It will maintain the Ascending order
+
+List :  Duplicates are allowed
+  ArrayList -> It will maintain the insertion order with duplicate values
+  Searching - Fast &  Insertion, Deletion - Slow
+
+  LinkedList -> It will maintain the insertion order with duplicate values
+  Searching - Slow  & Insertion, Deletion - Fast
+
+
+Map : Key, Value Pair https://www.geeksforgeeks.org/differences-treemap-hashmap-linkedhashmap-java/
+  HashMap -> Ordering of the keys is essentially arbitrary (any ordering)
+  LinkedHashMap -> Keys are ordered by their insertion order
+  Treemap -> // Keys are in sorted order
