@@ -7,7 +7,7 @@ import java.util.LinkedList;
 // Difference between
 //           ArrayList | LinkedList
 // Searching      Fast | Slow
-// Searching is based on index thus Searching is slower in ArrayList we have to traverse each node thus
+// Searching is based on index thus Searching is slower in LinkedList we have to traverse each node thus
 
 //           ArrayList | LinkedList
 // Insertion      Slow | Fast
